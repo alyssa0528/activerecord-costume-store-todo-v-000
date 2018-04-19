@@ -1,2 +1,3 @@
 # Create your haunted_houses migration here
-create 
+class CreateHauntedHouses < ActiveRecord::Migration 
+end 
